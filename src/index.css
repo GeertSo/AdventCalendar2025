@@ -1,0 +1,52 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* -------------------------------------------------
+   1️⃣  Hintergrund‑Variable
+   ------------------------------------------------- */
+:root {
+  /* Standard‑Weihnachtsbild – Pfad relativ zum public‑Ordner */
+  /* --bg-image: url('/images/nopicture.jpg');*/
+}
+
+/* Tablet‑Breakpoint */
+@media (min-width: 640px) {
+  :root { --bg-image: url('/images/landscape.jpg'); }
+}
+
+/* Desktop‑Breakpoint */
+@media (min-width: 1024px) {
+  :root { --bg-image: url('/images/landscape.jpg'); }
+}
+
+/* Hochkant-Erkennung Handy*/
+@media (orientation: portrait) and (min-height: 1480px) {
+  :root { --bg-image: url('/images/portrait.jpg'); }
+}
+
+@media (max-width: 640px) and (min-height: 80px) {
+  :root { --bg-image: url('/images/portrait.jpg'); }
+}
+
+
+/* -------------------------------------------------
+   2️⃣  Body‑Hintergrund (steht hinter allem)
+   ------------------------------------------------- */
+body {
+  @apply bg-gray-300;               /* fallback‑Farbe, falls Bild nicht lädt */
+  background-image: var(--bg-image);
+  background-size: cover;          /* Bild füllt den gesamten Viewport */
+  background-position: center;     /* zentriert */
+  background-attachment: fixed;    /* Parallax‑Effekt beim Scrollen */
+  min-height: 100vh;               /* sorgt dafür, dass das Bild immer da ist */
+}
+
+/* -------------------------------------------------
+   3️⃣  Optional: leichter Overlay‑Schatten,
+      damit das Grid besser lesbar bleibt
+   ------------------------------------------------- */
+.bg-overlay {
+  background-color: rgba(255,255,255,0);  /*rgba(255, 255, 255, 0.85);*/ /* leichtes Weiß‑Overlay */
+}

@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# python venv
+*/venv/*
+
+#python cache
+*/__pycache__/*
+
+# path variables etc
+secretsNoGit.js
+secretconfig.py
+database2025.php
+
+# backup copy of git
+.git-backup*

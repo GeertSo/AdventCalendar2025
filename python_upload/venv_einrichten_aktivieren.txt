@@ -1,0 +1,6 @@
+Erzeugen/einrichten:
+python3 -m venv venv  # "venv" is the name of the virtual environment directory
+
+aktivieren:
+source venv/bin/activate
+

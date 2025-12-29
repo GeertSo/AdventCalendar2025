@@ -1,0 +1,43 @@
+day,question,answerA,answerB,answerC,explanation,correctAnswer
+1,Welches Chemische Element hat das Kürzel O?,Sauerstoff,Stickstoff,Wasserstoff,Das Symbol O steht für Sauerstoff,A
+2,Wo leben Bären?,Stadt,Schule,Wald,"Die Bären gleichen sich im Körperbau. Ihr Körper ist massig und stämmig, 
+der Kopf groß, und die Gliedmaßen sind eher kurz und sehr kräftig. 
+Die Augen sind klein, die Ohren rund und aufgerichtet. Die meist langgestreckte Schnauze beherbergt je nach Art 40 oder 42 Zähne. Die Füße enden in fünf Zehen, die mit nicht einziehbaren Krallen versehen sind. Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt. Der Schwanz ist nur ein kleiner Stummel. Das Fell ist eher lang und bei den meisten Arten einfarbig, meist braun oder schwarz. Ausnahmen sind der Große Panda mit seiner auffälligen, schwarz-weißen Fellzeichnung und der weiße Eisbär. Bei mehreren Arten kann eine helle Fellzeichnung auf der Brust oder im Gesicht vorhanden sein.
+Das Körpergewicht variiert zwischen 25 und 800 Kilogramm, wobei die Männchen stets deutlich schwerer als die Weibchen werden. Die Kopf-Rumpf-Länge beträgt 100 bis 280 Zentimeter. ",C
+3,Welches ist die Hauptstadt von Frankreich?, Berlin, Paris, Parg,Die Hauptstadt von Frankreich ist Paris.,B
+4,Wie schwer werden Blauwale, bis zu 10 Tonnen, bis zu 200 Tonnen, bis zu 800 Tonnen,"Zu den Walen gehören die größten Tiere, die jemals auf der Erde gelebt haben. Der Blauwal (Balaenoptera musculus) ist mit einer Körperlänge von bis zu 33 Metern und einem Gewicht von bis zu 200 Tonnen das größte bekannte Tier der Erdgeschichte. Der Pottwal (Physeter macrocephalus) ist das größte räuberisch lebende Tier der Erde. Die kleinsten Walarten erreichen dagegen nur eine maximale Körperlänge von etwa 1,5 Metern, wie etwa der La-Plata-Delfin, der Hector-Delfin und der Kalifornische Schweinswal.
+
+Wale zeichnen sich auch durch eine für Höhere Säugetiere ungewöhnliche Lebenserwartung aus. Manche Arten, wie etwa der Grönlandwal (Balaena mysticetus), können ein Alter von über 200 Jahren erreichen. Anhand der Jahresringe der knöchernen Ohrkapsel konnte das Alter des ältesten bekannt gewordenen Exemplars, eines Männchens, auf 211 Jahre zum Zeitpunkt seines Todes bestimmt werden. 
+Quelle: <a href='https://de.wikipedia.org/wiki/Wale' className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia</a>",B
+5,Welches ist die Coolste Adresse in Bonn?,Brüser Damm 12,Friedrichstraße 3,CDF 45,Das ist doch wohl klar ...,C
+6,Frage Nummer 6, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+7,Frage Nummer 7, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+8,Wo leben Bären?,Stadt,Schule,Wald,"Am liebsten leben die Bären im Wald, wo sie gerne Beeren fressen.",C
+9,Wo leben Bären?,Stadt,Schule,Wald,"Die Bären gleichen sich im Körperbau. Ihr Körper ist massig und stämmig, 
+der Kopf groß, und die Gliedmaßen sind eher kurz und sehr kräftig. 
+Die Augen sind klein, die Ohren rund und aufgerichtet. Die meist langgestreckte Schnauze beherbergt je nach Art 40 oder 42 Zähne. Die Füße enden in fünf Zehen, die mit nicht einziehbaren Krallen versehen sind. Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt. Der Schwanz ist nur ein kleiner Stummel. Das Fell ist eher lang und bei den meisten Arten einfarbig, meist braun oder schwarz. Ausnahmen sind der Große Panda mit seiner auffälligen, schwarz-weißen Fellzeichnung und der weiße Eisbär. Bei mehreren Arten kann eine helle Fellzeichnung auf der Brust oder im Gesicht vorhanden sein.
+Das Körpergewicht variiert zwischen 25 und 800 Kilogramm, \n \r wobei die Männchen stets deutlich schwerer als die Weibchen werden. Die Kopf-Rumpf-Länge beträgt 100 bis 280 Zentimeter. ",C
+10,Wo leben Bären?,Stadt,Schule,Wald,"Die Bären gleichen sich im Körperbau. Ihr Körper ist massig und stämmig, 
+der Kopf groß, und die Gliedmaßen sind eher kurz und sehr kräftig. 
+Die Augen sind klein, die Ohren rund und aufgerichtet. Die meist langgestreckte Schnauze beherbergt je nach Art 40 oder 42 Zähne. Die Füße enden in fünf Zehen, die mit nicht einziehbaren Krallen versehen sind. Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt. Der Schwanz ist nur ein kleiner Stummel. Das Fell ist eher lang und bei den meisten Arten einfarbig, meist braun oder schwarz. Ausnahmen sind der Große Panda mit seiner auffälligen, schwarz-weißen Fellzeichnung und der weiße Eisbär. Bei mehreren Arten kann eine helle Fellzeichnung auf der Brust oder im Gesicht vorhanden sein.
+Das Körpergewicht variiert zwischen 25 und 800 Kilogramm, \n \r wobei die Männchen stets deutlich schwerer als die Weibchen werden. Die Kopf-Rumpf-Länge beträgt 100 bis 280 Zentimeter. ",C
+11,Wo leben Bären?,Stadt,Schule,Wald,"Die Bären gleichen sich im Körperbau. Ihr Körper ist massig und stämmig, 
+der Kopf groß, und die Gliedmaßen sind eher kurz und sehr kräftig. 
+Die Augen sind klein, die Ohren rund und aufgerichtet. Die meist langgestreckte Schnauze beherbergt je nach Art 40 oder 42 Zähne. Die Füße enden in fünf Zehen, die mit nicht einziehbaren Krallen versehen sind. Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt. Der Schwanz ist nur ein kleiner Stummel. Das Fell ist eher lang und bei den meisten Arten einfarbig, meist braun oder schwarz. Ausnahmen sind der Große Panda mit seiner auffälligen, schwarz-weißen Fellzeichnung und der weiße Eisbär. Bei mehreren Arten kann eine helle Fellzeichnung auf der Brust oder im Gesicht vorhanden sein.
+Das Körpergewicht variiert zwischen 25 und 800 Kilogramm, \n \r wobei die Männchen stets deutlich schwerer als die Weibchen werden. Die Kopf-Rumpf-Länge beträgt 100 bis 280 Zentimeter. ",C
+12,Wo leben Bären?,Stadt,Schule,Wald,"Die Bären gleichen sich im Körperbau. Ihr Körper ist massig und stämmig, 
+der Kopf groß, und die Gliedmaßen sind eher kurz und sehr kräftig. 
+Die Augen sind klein, die Ohren rund und aufgerichtet. Die meist langgestreckte Schnauze beherbergt je nach Art 40 oder 42 Zähne. Die Füße enden in fünf Zehen, die mit nicht einziehbaren Krallen versehen sind. Alle Bären sind Sohlengänger, wobei die Fußsohlen meist behaart sind; lediglich bei Arten, die oft auf Bäume klettern, wie den Malaienbären, sind die Fußsohlen nackt. Der Schwanz ist nur ein kleiner Stummel. Das Fell ist eher lang und bei den meisten Arten einfarbig, meist braun oder schwarz. Ausnahmen sind der Große Panda mit seiner auffälligen, schwarz-weißen Fellzeichnung und der weiße Eisbär. Bei mehreren Arten kann eine helle Fellzeichnung auf der Brust oder im Gesicht vorhanden sein.
+Das Körpergewicht variiert zwischen 25 und 800 Kilogramm, \n \r wobei die Männchen stets deutlich schwerer als die Weibchen werden. Die Kopf-Rumpf-Länge beträgt 100 bis 280 Zentimeter. ",C
+13,Frage Nummer 13, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+14,Frage Nummer 14, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+15,Frage Nummer 15, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+16,Frage Nummer 16, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+17,Frage Nummer 17, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+18,Frage Nummer 18, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+19,Frage Nummer 19, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+20,Frage Nummer 20, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+21,Frage Nummer 21, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+22,Frage Nummer 22, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+23,Frage Nummer 23, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A
+24,Frage Nummer 24, Antwort A - richtig, Antwort B, Antwort C, Hier steht die Erklärung,A

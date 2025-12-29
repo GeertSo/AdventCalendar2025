@@ -1,0 +1,150 @@
+day,question,answerA,answerB,answerC,explanation,correctAnswer
+1,Welchen Zweck hatten die ersten Weihnachtsmärkte im Mittelalter,Ablenkung von Hunger und Kälte,Umsatzsteigerung bei Bäckern,Vorbereitung auf den Winter,"Die Märkte im Mittelalter hatten wenig mit unseren heutigen Vergnügungsveranstaltungen zu tun. Die mittelalterlichen Stadtbewohner konnten sich damals auf den Weihnachtsmärkten mit <span className='font-bold'>Nahrungsmitteln und Gebrauchsgegenständen für den anstehenden Winter und das Weihnachtsfest</span> eindecken.
+Neben den Händlern erhielten Handwerker wie Korbflechter, Schuster und allmählich auch Spielzeugmacher das Recht, auf den Märkten ihre Waren anzubieten. Kuchenbäcker durften vielerorts für das leibliche Wohl sorgen. Oft waren auch schon im Mittelalter fahrende Musikanten für musikalische Untermalung zuständig.
+Quelle: <a href='https://www.ndr.de/geschichte/chronologie/Weihnachtsmarkt-Geschichte-Von-der-Versorgung-zum-Vergnuegen,weihnachtsmarkt1370.html' 
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>NDR</a>",C
+
+2,"Birkenzucker, auch Xylit genannt, ist eine natürliche Zuckeralternative mit einem ähnlichen Geschmack.
+Aber es gibt auch Einschränkungen: Hefeteige z.B. gehen mit Birkenzucker nicht auf.
+Frage: Sollte man reichlich Birkenzucker statt Zucker im Glühwein verwenden?",Auf jeden Fall - sind weniger Kalorien,Ja - das ist identisch zum Zucker,'Jein' - viel Birkenzucker hat negative Auswirkungen,"Wie immer: die Menge machts. Lecker süßer Glühwein mit viel Birkenzucker kann unangenehme Nebenwirkungen haben. Durchfall und Übelkeit. Also besser nicht zu viel davon ...
+Quelle: <span className='text-blue-600'>Experiment/Selbstversuch &#128521;</span>, <a href='https://www.ndr.de/ratgeber/kochen/zutaten/Birkenzucker,zutat1012.html'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>NDR</a>",C
+
+3,Woher kommt die Legende der Weihnachtsspinne?,"das ist Quatsch, so etwas gibt es nicht",aus Spanien,aus der Ukraine," Die Legende von der &#128375; <span className='font-bold'>Weihnachtsspinne</span> &#128375; ist ein europäisches Märchen, das vor allem in der Westukraine verbreitet ist. Dort gelten die Achtbeiner und ihre Netze um die Weihnachtszeit als Glücksbringer.
+&#128376; Die meisten freuen sich aber wahrscheinlich weniger über achtbeinige Besucher &#128375; zu Weihnachten oder haben sogar Angst vor ihnen. Details zur Legende finden sich in den angegebenen Quellen.
+Quelle: <a href='https://www.petbook.de/wildtiere/kennen-sie-die-legende-von-der-weihnachtsspinne'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Petbook-Wildtiere</a>, <a href='https://de.wikipedia.org/wiki/Weihnachtsspinne'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Weihnachtsspinne</a>",C
+
+4,Wie sieht die typische Grundstruktur einer Schneeflocke aus?,sechseckig,fünfeckig,achteckig,"Die Eiskristalle s weisen fast immer eine sechseckige Form auf.
+Der Grund liegt in der Struktur der Wassermoleküle und wie sie sich beim Gefrieren anordnen: Durch Wasserstoffbrückenbindungen und die hexagonale Packung ergibt sich eine natürliche Sechser-Symmetrie.
+Quelle: <a href='https://www.welt.de/wissenschaft/article242692047/Ist-wirklich-jede-Schneeflocke-einzigartig.html'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Schneeflocke-einzigartig</a>, <a href='https://www.eldico-scientific.com/blog/on-snowflakes-and-crystallography'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>eldico-scientific</a>",A
+
+5,"Woher stammt der Ausspruch: Früher war mehr Lametta?", Loriot,Papst Paul II,Songtext der Toten Hosen,"„Früher war mehr Lametta“ ist ein Ausspruch aus dem Sketch 'Weihnachten bei den Hoppenstedts'.
+Erstmals ausgestrahlt wurde der Sketch im Fernsehen im Dezember 1978 in der sechsten und letzten Folge der Sendereihe Loriot.
+Opa Hoppenstedt stellt fest: 'Früher war mehr Lametta!' Daraufhin erklären ihm sein Sohn und seine Schwiegertochter, dass man den Baum in diesem Jahr 'naturfrisch und umweltfreundlich' und 'mit frischen natürlichen Äpfeln' schmücke.
+Quelle: <a href='https://de.wikipedia.org/wiki/Weihnacht_(Loriot)'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Loriot</a>",A
+
+6,Wie lautet die Bezeichnung für den heiligen Nikolaus in der Schweiz?,Sank Michel,Samichlaus,Santa Claus,"Samichlaus ist die schweizerische Bezeichnung für den heiligen Nikolaus.
+Und für eine Biermarke: Samichlaus-Bier. Dieses Bier wird nur einmal im Jahr gebraut, am Nikolaustag. Es wird über 10 Monate gelagert, bevor es abgefüllt wird. 
+Samichlaus-Bier hat 14 % Alkohol und 28,5° Stammwürze.
+Quelle: <a href='https://de.wikipedia.org/wiki/Samichlaus'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Samichlaus</a>, <a href='https://de.wikipedia.org/wiki/Samichlaus-Bier'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Samichlaus-Bier</a>",B
+
+7,Wer ist der Krampus?,finsterer Begleiter des Nikolaus,Wichtel der Tannenbäume aufstellt,Bäcker,"Der Krampus ist des Nikolaus finsterer Begleiter mit Rute.
+Der Krampus ist eine teuflische Gestalt aus den Alpenregionen. Er kommt unter anderem in Österreich, Bayern, Italien, Tschechien, Kroatien, Slowenien und Ungarn vor. Der Name leitet sich vom Wort Krampen ab, das im Althochdeutschen „Klaue“ bedeutet. Die Krampus-Tradition ist jahrhunderte alt und existiert bereits seit dem 16. Jahrhundert. Der Krampus ist der Begleiter des heiligen Nikolaus und jagt mit seinen rostigen Glocken, Ketten, Hämmern und Peitschen allen Kindern einen gewaltigen Schrecken ein. Mit all dem Lärm, den er macht, vertreibt er außerdem die bösen Geister, die um die Mittwinterzeit unterwegs sind.
+Quelle: <a href='https://www.indenbergen.de/weblog/nikolaus-und-krampus'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>indenbergen.de</a>, <a href='https://de.wikipedia.org/wiki/Krampus'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Krampus</a>",A
+
+8,Wieviel Prozent der in Deutschland lebenden Menschen feierten 2024 Weihnachten?,70%,81%,93%,"Im Jahr 2024 feierten 81 Prozent der in Deutschland lebenden Menschen Weihnachten. Es zu feiern ist eine wichtige Familientradition. Es ist zwar das christliche Fest zur Geburt Jesu Christi, aber auch Deutsche, die sich zu keinem Glauben bekennen, feiern Weihnachten. 
+Immer weniger Menschen gehen an Weihnachten in die Kirche. Vor der Pandemie waren es noch 23,6 Prozent, die den Besuch in der Kirche fest einplanen. 2022 sank der Wert auf 15,4 Prozent (Studie der Bundeswehr-Universität Neubiberg).
+Quelle: <a href='https://www.deutschland.de/de/topic/leben/wie-deutschland-weihnachten-feiert'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>deutschland.de</a>",B
+
+9,Was wird mit den traditionellen Motiven auf den Spekulatius(-Keksen) dargestellt?,Deichbewohner,exotische Tiere,Nikolausgeschichte,"Die Abbildungen auf dem Gebäck stellen traditionell die Nikolausgeschichte dar, die durch Sortieren der Stücke anhand der Abbildungen erzählt werden konnte und etwa Motive wie Schiffe oder Pferde enthielten. Jedoch gibt es heute auch zeitgenössische belgische, niederländische oder deutsche Motive wie Bauernhäuser, Windmühlen, Schwäne oder Elefanten.
+Der Name Spekulatius ist wohl vom lateinischen „spekulator“ (der Schauende, der Beobachter) abgeleitet, dem Beinamen des Heiligen Nikolaus.
+Quelle: <a href='https://de.wikipedia.org/wiki/Spekulatius'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Spekulatius</a>, <a href='https://www.sueddeutsche.de/service/ernaehrung-die-geschichte-hinter-den-adventskoestlichkeiten-dpa.urn-newsml-dpa-com-20090101-141215-99-06071'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>sueddeutsche.de</a>",C
+
+10,Wie wird das Gewürz Zimt gewonnen?,aus Pflanzenwurzeln,aus Saatkapseln,aus Baumrinde,"Zimt ist eines der wenigen Gewürze, die tatsächlich aus Baumrinde gewonnen werden. Genauer: aus der inneren Rinde des Zimtbaums (Cinnamomum). Diese Bäume gedeihen vor allem in tropischen Regionen wie Südostasien. Beim Trocknen rollt sich die Rinde selbst zu den typischen Zimtstangen, wie wir sie kennen. Je dünner die Rinde geschnitten wird, desto feiner ist das Aroma. Durch die Ernte von ausgewachsenen Bäumen entwickeln sich die intensiven ätherischen Öle, die dem Zimt seinen aromatischen Geschmack und die rötlich-braune Farbe geben.
+Quelle: <a href='https://www.oesterreich-isst-informiert.at/tipps-service/kuriose-lebensmittel-fakten-weihnachten'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Österreich-istt-informiert</a>, <a href='https://de.wikipedia.org/wiki/Zimt'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Zimt</a>",C
+
+11,Wo findet statt einer Schneeballschlacht eine Orangenschlacht statt?,Italien,Türkei,Griechenland,"Der Karneval von Ivrea ist ein historischer italienischer Karneval, der in der Stadt Ivrea stattfindet und am bekanntesten für seine <span className='font-bold text-orange-600'>Orangenschlacht</span> ist. Die Orangenschlacht symbolisiert den Volksaufstand gegen einen Tyrannen im Mittelalter und findet an den Tagen vor dem Aschermittwoch statt.
+Die Orangenschlacht, die „Battaglia delle arance“, dauert drei Tage. Es werden bis zu 11.000 kg Orangen verbraucht.
+Quelle: <a href='https://www.foodboom.de/lesestoff/karneval-ivrea'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>foodboom.de</a>",A
+
+12,"Wir wissen, dass Wasser bei 100°C kocht (siedet). Überall? Bei welcher Temperatur kocht Wasser auf dem Mount Everest?",70°C,100°C,108°C,"Auf dem Berggipfel fängt das Wasser viel früher zu kochen an, schon bei 70°C. Durch den geringeren Luftdruck haben es die Teilchen im Wasser leichter, sich immer schneller und schneller zu bewegen und auch die Wasseroberfläche zu verlassen, weil sie nicht mehr so stark durch die Luftmoleküle daran gehindert werden. Deshalb kocht das Wasser schon bei einer niedrigeren Temperatur.
+Quelle: <a href='https://www.dlr.de/de/next/schule-und-ausbildung/lernmodule/aggregatzustaende/der-kochtopf-auf-dem-mount-everest'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>DLR</a>, <a href='https://www.phyx.at/sieden'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>phyx.at</a>",A
+
+13,Wie schnell sind Sternschnuppen?,25.000km/h (wie das Spaceshuttle),100.000km/h,250.000km/h,"Eine Sternschnuppe saust mit einer Geschwindigkeit von 250.000 Kilometer pro Stunde durch das Weltall - zehnmal schneller als ein Spaceshuttle. Dringt ein größerer Meteor in die Erdatmosphäre ein, kann man das sogar hören: als fernes Donnergrollen.
+Sternschnuppen, die aus Kometen entstanden sind, verglühen meist vollständig, wenn sie in die Erdatmosphäre eintreten. Sie kommen nicht als Brocken am Boden an. Es könnte jedoch sein, dass sie winzige Spuren auf dem Erdboden hinterlassen: kleiner als ein Zehntel Millimeter große Staubteilchen, die man auf Schneeflächen oder in Regenrinnen findet. Sternschnuppen, die von Asteroiden abstammen, können auch schon mal als mehr oder weniger große Klumpen auf dem Erdboden ankommen.
+Quelle: <a href='https://www.geo.de/geolino/wissen/20081-rtkl-naturschauspiel-fuenf-erstaunliche-fakten-ueber-sternschnuppen'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Geo.de</a>, <a href='https://news.rub.de/wissenschaft/2017-08-01-himmelsereignis-sieben-dinge-die-sie-vielleicht-noch-nicht-ueber-sternschnuppen-wissen'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Ruhr-Uni-Bochum</a>",C
+
+14,Welches ist die gesetzlich vorgeschriebene Höchstgeschwindigkeit für Pferdeschlitten in Deutschland (StVO)?,10 km/h,25 km/h,es gibt für sie keine Geschwindigkeitsbegrenzung,"Tatsächlich gibt es keine allgemeine Geschwindigkeitsbegrenzung für von Pferden gezogene Fahrzeuge. Wo es relevant ist, müssen selbstverständlich auch Kutschen Geschwindigkeits-
+beschränkungen beachten - z.B. muss in verkehrsberuhigten Bereichen (Zeichen 325) auch eine Kutsche Schrittgeschwindigkeit einhalten.
+Quelle: <a href='https://www.pferd-aktuell.de/files/160/Richtlinien_fuer_den_Bau_und_Betrieb_pferdebespannter_Fahrzeuge_1.pdf'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Pferd-Aktuell</a>",C
+
+15,Was wird aus kleinen dunklen Weintrauben durch Trocknung hergestellt?,Rosinen,Sultaninen,Korinthen,"Es sind die Korinthen. Korinthen sind eine Sorte von Trockenobst aus getrockneten Weinbeeren, Einzelfrüchten der Weintraube. Der Name leitet sich von der griechischen Stadt Korinth ab, die als Ursprungsgebiet gilt. Ursprünglich wurden sie typischerweise aus der regionalen Rebsorte Korinthiaki/Korinthen-Weinstocks gewonnen.
+- Rosinen werden aus weißen Trauben gewonnen und mehrere Tage an der Luft getrocknet. Das gibt ihnen den intensiven Geschmack und die typische dunkle Farbe.
+- Sultaninen stammen ebenfalls von weißen Weintrauben und werden mit einer Mischung aus Olivenöl und Pottasche vorbehandelt. Dadurch geht die Trocknung schneller, die Beeren werden schrumpeliger und heller und haben einen eigenen, leicht süßlichen Geschmack.
+- Korinthen werden aus kleinen dunklen Weintrauben aus Griechenland gewonnen und an der Luft getrocknet.
+Quelle: <a href='https://www.oesterreich-isst-informiert.at/tipps-service/kuriose-lebensmittel-fakten-weihnachten'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Österreich-isst-informiert</a>, <a href='https://de.wikipedia.org/wiki/Korinthe'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Korinthe</a>",C
+
+16,Worin liegt der Ursprung der Adventszeit?,Fastenzeit,Zeit der Dunkelheit,Kerzenzeit,"Die Adventszeit sollte die Gläubigen durch Buße und <b>Fasten</b> auf die Feierlichkeiten zur Geburt Jesu vorbereiten. DieFastenzeit sollte nach dem Vorbild Jesu in der Wüste 40 Tage lang dauern. Von dem 25. Dezember zurückgerechnet, landete man also auf dem 11. November, dem Martinstag. Der Martinstag fiel gleichzeitig auf das Ende des bäuerlichen Wirtschaftsjahres. An diesem Tag sollten alle Lebensmittel, die nicht für eine Fastenzeit taugen - wie z. B. Fleisch, Eier und Milchprodukte - verzehrt werden. Traditionell wurde am Martinstag also reichlich gegessen. Ein beliebtes Gericht war die Martinsgans. 
+Quelle: <a href='https://praxistipps.focus.de/warum-der-advent-frueher-fastenzeit-war-einfach-erklaert_152893' 
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Praxistipps-Focus</a>",A
+
+17,Wann findet (traditionell) in Griechenland die Bescherung statt?,in der Nacht zum 1.Januar,am Abend des 24.Dezember,am Morgen des 17.Dezember,"In Griechenland wurden die Geschenke traditionell in der Nacht zum 1. Januar verteilt. Der heilige Vassilius brachte die Geschenke für die Kinder vor ihr Bett.
+Und der 1. Januar ist der Tag des Heiligen Basilius. Der Heilige Basilius ist dafür bekannt, dass er Spielsachen und Weihnachtsleckereien bringt.
+Quelle: <a href='https://www.winter-wonderland.de/weihnachtszauber/weihnachten-weltweit/weihnachten-in-griechenland'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>winder-wonderland</a>, <a href='https://elxis.com/de/5-things-you-didnt-know-about-christmas-in-greece'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>elxis.com</a>",A
+
+18,Wann ist der Ehrentag der Schneeflocke?,Am 2. Februar,Am 18. Dezember,Am 1. Dezember,"Den 18. Dezember feiern die USA als ihren nationalen Ehrentag der Schneeflocke (engl. Flake Appreciation Day – manchmal auch: Snowflake Appreciation Day).
+Die Ursprünge des Flake Appreciation Day liegen im Dunkeln oder sind im Schneegestöber verloren gegangen. Eine konkrete Begründung für die Wahl des 18. Dezember als Datum des Schneeflockentages scheint es nicht zu geben. Ein Termin im Dezember, der dazu noch in kalendarischer Nähe zur Wintersonnenwende am 21. oder 22. Dezember als kürzester Tag des Jahres ist aufgrund der vorherrschenden Wetterlage aber naheliegend..
+Die beste Art, diesen wunderbaren kuriosen Feiertag zu begehen, ist es, nach draußen zu gehen und Spaß im Schnee zu haben. Daher einige passende Vorschläge:
+    - Schneeflocken mit der Zunge fangen
+    - Einen Schneemann oder eine Schneeburg bauen
+    - Sich in den Schnee werfen und einen Schnee-Engel machen.
+    - Schneeballschlacht!
+    - Skifahren oder Rodeln gehen.
+    - Auch ein Spaziergang durch den Schnee oder der Besuch einer Eisbahn bieten sich an.
+Quelle: <a href='https://www.kuriose-feiertage.de/ehrentag-der-schneeflocke'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>kuriose-feiertage</a>",B
+
+19,Erste Weihnachts-Currywurst an Duisburger Pommesbude. Wie heißt die Pommesbude?,Udo's Currybude,Chris' Currykiste,Papa's Schlemmerkasten,"Bei 'Papa's Schlemmerkasten' gibt es die erste Weihnachts-Currywurst Duisburgs. Hinter der Idee steht Inhaber Christian Schmitz, der sich selbst als leidenschaftlichen Weihnachtsfan beschreibt. „Ich habe mich gefragt: Wie bekomme ich Weihnachten in meine Pommesbude? Und dann habe ich angefangen, Gewürze wie Sternanis, Koriander und Zimt in meine Currysoße zu mischen, um eine Weihnachtssoße zu kreieren“, erklärt er. Schritt für Schritt entwickelte er eine neue Rezeptur.
+Mit Zimt und Orange verfeinert, erhält die Soße eine fruchtige Frische, während der Zimt dezent im Hintergrund bleibt. - Guten Appetit
+Quelle: <a href='https://www.radioduisburg.de/artikel/erste-weihnachts-currywurst-an-duisburger-pommesbude-2500844'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>radioduesburg</a>, <a href='https://rp-online.de/nrw/staedte/duisburg/duisburg-chris-schmitz-und-seine-weihnachts-currywurst_aid-139251813'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>rp-online</a>",C
+
+20,"Was ist ein Julbock?",ein im Juli gebrautes Bier,eine Ziegenbockfigur aus Stroh,der Bock einer besonderen Ziegenart,"Der Julbock (schwedisch „Weihnachtsbock“, auch Julgumse (Julwidder); dänisch Julebuk, Juleged (–ziege), Nytårsbuk (Neujahrsbock)) ist heute in erster Linie eine &#128016;  <span className='font-bold'>Ziegenbockfigur aus Stroh</span>, die insbesondere in Dänemark, Norwegen und Schweden ein beliebter Weihnachtsschmuck ist. Früher brachte der Julbock die Geschenke, bevor er vom Weihnachtsmann (dänisch Julemand, norwegisch Julenisse, schwedisch Jultomte) ersetzt wurde.
+Quelle: <a href='https://de.wikipedia.org/wiki/Julbock'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Julbock</a>",B
+
+21,Wo wird 'Christmas in July' (Weihnachten im Juli) gefeiert?,auf den Malediven,auf den Seychellen,in Australien,"<span className='font-bold'>Australien feiert Weihnachten auch im Juli.</span>
+Australiens Bevölkerung hat auch heute noch ein starkes europäisches Erbe und damit immer noch eine lebendige Tradition, Weihnachten bei kaltem Wetter zu feiern. Kein Monat ist also perfekter als der kälteste Wintermonat Juli, um ein Weihnachtsfest in winterlicher Atmosphäre wie auf der Nordhalbkugel zu inszenieren. Das bedeutet herzhafte Braten und warme Getränke vor Kaminen und Lagerfeuern.
+Weihnachtlich wird es auch in Sydney mit dem Christmas in July Village. Vom 11. bis zum 14. Juli kann man den schon zur Tradition gewordenen Weihnachtsmarkt besuchen: 25 Holzchalets, Kunstschnee, Lichterketten, Weihnachtsbäume und traditionelle französische und englische Weihnachtslieder laden zu einem winterlichen Spaziergang ein. Verkauft wird nicht nur nostalgischer Weihnachtsbaumschmuck, sondern auch winterliche Köstlichkeiten wie Glühwein oder heiße Maroni.
+Quelle: <a href='https://gostralia-gomerica.de/blog/australien-feiert-weihnachten-im-juli'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>gostralia-gomerica.de</a>, <a href='https://www.bbc.com/news/articles/crevj4nn34yo'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>BBC</a>",C
+
+22,Was ist der Tag der Wintersonnenwende?,der kürzeste Tag des Jahres,der Tag an dem die Sonne im Norden aufgeht,der Tag an dem sich die Sonne um 180 Grad gedreht hat,"<span className='font-bold'>Der kürzeste Tag des Jahres</span> wird auch als Wintersonnenwende bezeichnet. Er fällt in Deutschland - wie auf der gesamten Nord-Halbkugel - stets auf den 21. oder 22. Dezember. Die Sonne steht dann so flach über dem Horizont wie sonst nie im Jahr. Sie geht spät auf und früh wieder unter. Dabei gilt: je nördlicher der Ort, desto kürzer der Tag. Zwischen Hamburg und München beträgt der Unterschied fast eine Stunde, nördlich des Polarkreises geht die Sonne gar nicht auf.
+Quelle: <a href='https://www.ndr.de/ratgeber/Wintersonnenwende-2024-Der-kuerzeste-Tag-des-Jahres,sonnenwende100.html'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>NDR</a>",A
+
+23,"Wie versucht man in Dänemark die den Weihnachtsmann unterstützenden Wichtel (Weihnachtsnisse) 'gnädig' zu stimmen?",Kerze im Fenster,Grütze/Michreis auf dem Dachboden,Kekse im Keller,"Eine Schüssel Grütze/Milchreis wird auf dem Dachboden dem Weihnachtsnisse (lokal auch Nis Puk) überlassen. Nisser sind nordische Wichtel, die 'dem Weihnachtsmann zuarbeiten'.
+Gespannt warten die Kinder an Heiligabend darauf, ob die Nisser die Leibspeise gegessen haben.
+
+Ich hoffe ihr habt schon etwas nach oben gestellt, es wird höchste Zeit ... &#128521;
+
+Quelle: <a href='https://www.weltderwunder.de/hexen-geister-und-andere-kuriose-weihnachtsbraeuche'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>weltderwunder</a>, <a href='https://de.wikipedia.org/wiki/Weihnachten_weltweit'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Weihnachten</a>",B
+
+24,"Wo wird 21 Tage lang Weihnachten gefeiert, bis am 13. Januar zum Weihnachtskehraus getanzt wird?",Helgoland,Fidshi-Inseln,Färöer-Inseln,"Weihnachten feiert man auf den Färöern vom 24. Dezember an für 21 Tage. Die Färinger feiern den „Tjúgundahalgi“ (heiligen Zwanzigertag); somit sind die Färinger die einzigen, die den nordischen Weihnachtsbrauch bewahrt haben, bei dem man am 13. Januar zum Weihnachtskehraus tanzt.
+Quelle: <a href='https://de.wikipedia.org/wiki/Weihnachten_weltweit'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>Wikipedia-Weihnachten</a>, <a href='https://www.weltderwunder.de/hexen-geister-und-andere-kuriose-weihnachtsbraeuche'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>weltderwunder.de</a>",C
+
+1,"Welcher Vogel gilt als Weihnachtsvogel?",Schnapsdrossel,Glühweinfink,Rotkehlchen,"Das Rotkehlchen: Der kleine Singvogel mit dem rot gefärbten Brustgefieder ist der Weihnachtsvogel schlechthin. Vermutlich ist dies ein Trend, der aus Großbritannien zu uns übergeschwappt ist. Denn dort ist das Rotkehlchen aus kaum einem weihnachtlich geschmückten Zimmer wegzudenken. 
+Laut einer christliche Legende, deren Urheber nicht bekannt ist spielt der kleine Vogel eine wichtige Rolle in der Weihnachtsgeschichte: In der Nacht von Jesu Geburt waren nicht nur Ochs und Esel bei Maria und Josef im Stall, sondern auch ein braunes Vögelchen. Ein Feuer brannte. Als es zu verlöschen drohte, weil die Menschen schliefen und niemand aufpasste, flog der Vogel zur Glut und fachte das Feuer mit eifrigen Flügelschlägen wieder an. Dabei trafen die auffliegenden Funken seine Brust und färbten sie orangerot.
+Quelle: <a href='https://ljv-sachsen.de/lernort-natur/das-rotkehlchen-warum-es-ein-weihnachtsvogel-ist'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>ljv-sachsen</a>, <a href='https://www.stern.de/panorama/wissen/warum-das-rotkehlchen-der-weihnachtsvogel-schlechthin-ist-34289342.html'
+className='text-blue-600 hover:text-blue-800 underline' target='_blank' rel='noopener noreferrer'>stern.de</a>",C
