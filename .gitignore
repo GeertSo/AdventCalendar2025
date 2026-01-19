@@ -36,3 +36,6 @@ database2025.php
 
 # backup copy of git
 .git-backup*
+
+# private hints
+HowToUseAndBuild.md
